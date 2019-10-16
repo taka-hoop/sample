@@ -3,4 +3,3 @@ def hello
 end
 
 hello, good night
-test
